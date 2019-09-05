@@ -24,14 +24,14 @@ This file contain the raw of data to do the scrapping. The name of this file is:
 
 This file contains the data that we have processed with the Hadoop cluster. The result of this data processing is the word count of the file europe.txt:
 
-wordcountout_europe_2Fpart-r-00000
-wordcountout_europe_2Fpart-r-00001
-wordcountout_europe_2Fpart-r-00002
-wordcountout_europe_2Fpart-r-00003
-wordcountout_europe_2Fpart-r-00004
-wordcountout_europe_2Fpart-r-00005
-wordcountout_europe_2Fpart-r-00006
-wordcountout_europe_2Fpart-r-00007
+  * wordcountout_europe_2Fpart-r-00000
+  * wordcountout_europe_2Fpart-r-00001
+  * wordcountout_europe_2Fpart-r-00002
+  * wordcountout_europe_2Fpart-r-00003
+  * wordcountout_europe_2Fpart-r-00004
+  * wordcountout_europe_2Fpart-r-00005
+  * wordcountout_europe_2Fpart-r-00006
+  * wordcountout_europe_2Fpart-r-00007
 
 
 ## 3. Big_Data_Architecture_KC.docx
